@@ -5,6 +5,9 @@ on:
     - cron: '30 3 * * *'  # 9:00 AM IST (UTC+5:30 = 03:30 UTC)
   workflow_dispatch:       # Manual trigger anytime from GitHub UI
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 permissions:
   contents: write
 
@@ -20,7 +23,7 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: '3.12'
 
       - name: Install dependencies
         run: pip install requests python-dateutil
