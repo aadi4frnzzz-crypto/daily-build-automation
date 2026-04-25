@@ -1,0 +1,40 @@
+name: 🟩 Daily Build & Commit
+
+on:
+  schedule:
+    - cron: '30 3 * * *'  # 9:00 AM IST (UTC+5:30 = 03:30 UTC)
+  workflow_dispatch:       # Manual trigger anytime from GitHub UI
+
+permissions:
+  contents: write
+
+jobs:
+  daily-build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests python-dateutil
+
+      - name: Run daily build script
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          NOTION_IDEAS_PAGE_ID: ${{ secrets.NOTION_IDEAS_PAGE_ID }}
+        run: python scripts/daily_builder.py
+
+      - name: Commit & push generated project
+        run: |
+          git config user.name "Mohit Singh"
+          git config user.email "aadi4frnzzz@gmail.com"
+          git add .
+          git diff --staged --quiet || git commit -m "🟩 Daily build: $(date +'%Y-%m-%d') - $(cat .last_project_name 2>/dev/null || echo 'auto-project')"
+          git push
