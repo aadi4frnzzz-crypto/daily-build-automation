@@ -11,3 +11,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-04-28 | [csv-to-html-report](projects/2026-04-28-csv-to-html-report) | Convert any CSV file into a styled HTML table report | Python, pandas, jinja2 |
 | 2026-04-29 | [auto-readme-generator](projects/2026-04-29-auto-readme-generator) | Auto-generate a README.md from a project folder structure + docstrings | Python, ast, jinja2 |
 | 2026-04-30 | [3d-portfolio-landing-page](projects/2026-04-30-3d-portfolio-landing-page) | Minimal 3D animated portfolio page using Three.js and vanilla JS | HTML, CSS, JavaScript, Three.js |
+| 2026-05-01 | [notion-weekly-digest](projects/2026-05-01-notion-weekly-digest) | Pull last 7 days of Notion updates and format as email digest | Python, notion-client, jinja2 |
