@@ -13,3 +13,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-04-30 | [3d-portfolio-landing-page](projects/2026-04-30-3d-portfolio-landing-page) | Minimal 3D animated portfolio page using Three.js and vanilla JS | HTML, CSS, JavaScript, Three.js |
 | 2026-05-01 | [notion-weekly-digest](projects/2026-05-01-notion-weekly-digest) | Pull last 7 days of Notion updates and format as email digest | Python, notion-client, jinja2 |
 | 2026-05-02 | [youtube-transcript-extractor](projects/2026-05-02-youtube-transcript-extractor) | Extract and save YouTube video transcripts to markdown files | Python, youtube-transcript-api |
+| 2026-05-03 | [website-uptime-checker](projects/2026-05-03-website-uptime-checker) | Monitor a list of websites for uptime and log downtime events | Python, requests, schedule, csv |
