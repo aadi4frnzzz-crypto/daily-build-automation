@@ -15,3 +15,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-05-02 | [youtube-transcript-extractor](projects/2026-05-02-youtube-transcript-extractor) | Extract and save YouTube video transcripts to markdown files | Python, youtube-transcript-api |
 | 2026-05-03 | [website-uptime-checker](projects/2026-05-03-website-uptime-checker) | Monitor a list of websites for uptime and log downtime events | Python, requests, schedule, csv |
 | 2026-05-04 | [streamlit-data-explorer](projects/2026-05-04-streamlit-data-explorer) | Upload any CSV and explore it interactively in a Streamlit dashboard | Python, streamlit, pandas, plotly |
+| 2026-05-05 | [resume-ats-scorer](projects/2026-05-05-resume-ats-scorer) | Score a resume against a job description for ATS keyword match | Python, nltk, sklearn |
