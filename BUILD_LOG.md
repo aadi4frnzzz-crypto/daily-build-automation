@@ -18,3 +18,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-05-05 | [resume-ats-scorer](projects/2026-05-05-resume-ats-scorer) | Score a resume against a job description for ATS keyword match | Python, nltk, sklearn |
 | 2026-05-06 | [pine-script-backtester](projects/2026-05-06-pine-script-backtester) | Parse TradingView Pine Script strategy results CSV and compute metrics | Python, pandas, matplotlib |
 | 2026-05-07 | [github-streak-monitor](projects/2026-05-07-github-streak-monitor) | Check GitHub contribution streak and alert if about to break | Python, requests, smtplib |
+| 2026-05-08 | [notion-to-csv-exporter](projects/2026-05-08-notion-to-csv-exporter) | Export any Notion database to a clean CSV file via API | Python, notion-client, pandas |
