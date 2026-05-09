@@ -19,3 +19,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-05-06 | [pine-script-backtester](projects/2026-05-06-pine-script-backtester) | Parse TradingView Pine Script strategy results CSV and compute metrics | Python, pandas, matplotlib |
 | 2026-05-07 | [github-streak-monitor](projects/2026-05-07-github-streak-monitor) | Check GitHub contribution streak and alert if about to break | Python, requests, smtplib |
 | 2026-05-08 | [notion-to-csv-exporter](projects/2026-05-08-notion-to-csv-exporter) | Export any Notion database to a clean CSV file via API | Python, notion-client, pandas |
+| 2026-05-09 | [crypto-price-alert](projects/2026-05-09-crypto-price-alert) | Monitor crypto prices and trigger desktop notification on threshold | Python, requests, plyer |
