@@ -20,3 +20,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-05-07 | [github-streak-monitor](projects/2026-05-07-github-streak-monitor) | Check GitHub contribution streak and alert if about to break | Python, requests, smtplib |
 | 2026-05-08 | [notion-to-csv-exporter](projects/2026-05-08-notion-to-csv-exporter) | Export any Notion database to a clean CSV file via API | Python, notion-client, pandas |
 | 2026-05-09 | [crypto-price-alert](projects/2026-05-09-crypto-price-alert) | Monitor crypto prices and trigger desktop notification on threshold | Python, requests, plyer |
+| 2026-05-10 | [naukri-job-scraper](projects/2026-05-10-naukri-job-scraper) | Scrape Naukri.com job listings by keyword and save to CSV | Python, selenium, pandas |
