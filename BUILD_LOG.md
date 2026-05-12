@@ -22,3 +22,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-05-09 | [crypto-price-alert](projects/2026-05-09-crypto-price-alert) | Monitor crypto prices and trigger desktop notification on threshold | Python, requests, plyer |
 | 2026-05-10 | [naukri-job-scraper](projects/2026-05-10-naukri-job-scraper) | Scrape Naukri.com job listings by keyword and save to CSV | Python, selenium, pandas |
 | 2026-05-11 | [markdown-blog-generator](projects/2026-05-11-markdown-blog-generator) | Convert a folder of markdown files into a static HTML blog | Python, markdown, jinja2 |
+| 2026-05-12 | [trading-journal-analyzer](projects/2026-05-12-trading-journal-analyzer) | Analyze trading journal CSV and output win rate, avg RR, drawdown | Python, pandas, matplotlib |
