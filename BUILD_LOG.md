@@ -24,3 +24,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-05-11 | [markdown-blog-generator](projects/2026-05-11-markdown-blog-generator) | Convert a folder of markdown files into a static HTML blog | Python, markdown, jinja2 |
 | 2026-05-12 | [trading-journal-analyzer](projects/2026-05-12-trading-journal-analyzer) | Analyze trading journal CSV and output win rate, avg RR, drawdown | Python, pandas, matplotlib |
 | 2026-05-13 | [pdf-invoice-generator](projects/2026-05-13-pdf-invoice-generator) | Generate professional PDF invoices from CSV data | Python, reportlab, pandas |
+| 2026-05-14 | [api-health-monitor](projects/2026-05-14-api-health-monitor) | Ping a list of APIs every hour and log response times to CSV | Python, requests, schedule |
