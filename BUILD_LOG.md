@@ -27,3 +27,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-05-14 | [api-health-monitor](projects/2026-05-14-api-health-monitor) | Ping a list of APIs every hour and log response times to CSV | Python, requests, schedule |
 | 2026-05-15 | [excel-formula-explainer](projects/2026-05-15-excel-formula-explainer) | Paste an Excel formula and get a plain-English explanation via OpenAI | Python, openai, tkinter |
 | 2026-05-16 | [daily-news-summarizer](projects/2026-05-16-daily-news-summarizer) | Fetch top 10 news headlines and summarize with OpenAI | Python, newsapi, openai |
+| 2026-05-17 | [env-secret-scanner](projects/2026-05-17-env-secret-scanner) | Scan a codebase for accidentally committed secrets/API keys | Python, regex, pathlib |
