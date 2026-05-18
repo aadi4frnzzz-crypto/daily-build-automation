@@ -28,3 +28,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-05-15 | [excel-formula-explainer](projects/2026-05-15-excel-formula-explainer) | Paste an Excel formula and get a plain-English explanation via OpenAI | Python, openai, tkinter |
 | 2026-05-16 | [daily-news-summarizer](projects/2026-05-16-daily-news-summarizer) | Fetch top 10 news headlines and summarize with OpenAI | Python, newsapi, openai |
 | 2026-05-17 | [env-secret-scanner](projects/2026-05-17-env-secret-scanner) | Scan a codebase for accidentally committed secrets/API keys | Python, regex, pathlib |
+| 2026-05-18 | [mcp-tool-builder](projects/2026-05-18-mcp-tool-builder) | Scaffold a new MCP tool server with boilerplate for Claude integration | Python, fastapi, pydantic |
