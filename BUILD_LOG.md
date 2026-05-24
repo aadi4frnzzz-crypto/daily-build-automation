@@ -34,3 +34,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-05-21 | [whatsapp-message-analyzer](projects/2026-05-21-whatsapp-message-analyzer) | Analyze exported WhatsApp chat for word frequency and activity patterns | Python, pandas, matplotlib |
 | 2026-05-22 | [browser-history-analyzer](projects/2026-05-22-browser-history-analyzer) | Parse Chrome history SQLite DB and visualize top sites + time patterns | Python, sqlite3, pandas, matplotlib |
 | 2026-05-23 | [ai-flashcard-generator](projects/2026-05-23-ai-flashcard-generator) | Convert any text/PDF into Anki-compatible flashcards using OpenAI | Python, openai, pdfplumber, csv |
+| 2026-05-24 | [json-diff-tool](projects/2026-05-24-json-diff-tool) | Compare two JSON files and output a readable diff report | Python, deepdiff, rich |
