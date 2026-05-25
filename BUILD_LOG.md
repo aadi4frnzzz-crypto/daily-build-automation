@@ -35,3 +35,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-05-22 | [browser-history-analyzer](projects/2026-05-22-browser-history-analyzer) | Parse Chrome history SQLite DB and visualize top sites + time patterns | Python, sqlite3, pandas, matplotlib |
 | 2026-05-23 | [ai-flashcard-generator](projects/2026-05-23-ai-flashcard-generator) | Convert any text/PDF into Anki-compatible flashcards using OpenAI | Python, openai, pdfplumber, csv |
 | 2026-05-24 | [json-diff-tool](projects/2026-05-24-json-diff-tool) | Compare two JSON files and output a readable diff report | Python, deepdiff, rich |
+| 2026-05-25 | [linkedin-post-scheduler](projects/2026-05-25-linkedin-post-scheduler) | Queue and schedule LinkedIn posts from a markdown file | Python, selenium, schedule |
