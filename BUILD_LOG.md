@@ -36,3 +36,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-05-23 | [ai-flashcard-generator](projects/2026-05-23-ai-flashcard-generator) | Convert any text/PDF into Anki-compatible flashcards using OpenAI | Python, openai, pdfplumber, csv |
 | 2026-05-24 | [json-diff-tool](projects/2026-05-24-json-diff-tool) | Compare two JSON files and output a readable diff report | Python, deepdiff, rich |
 | 2026-05-25 | [linkedin-post-scheduler](projects/2026-05-25-linkedin-post-scheduler) | Queue and schedule LinkedIn posts from a markdown file | Python, selenium, schedule |
+| 2026-05-26 | [daily-news-summarizer](projects/2026-05-26-daily-news-summarizer) | Fetch top 10 news headlines and summarize with OpenAI | Python, newsapi, openai |
