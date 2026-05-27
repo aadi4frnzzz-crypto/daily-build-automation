@@ -37,3 +37,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-05-24 | [json-diff-tool](projects/2026-05-24-json-diff-tool) | Compare two JSON files and output a readable diff report | Python, deepdiff, rich |
 | 2026-05-25 | [linkedin-post-scheduler](projects/2026-05-25-linkedin-post-scheduler) | Queue and schedule LinkedIn posts from a markdown file | Python, selenium, schedule |
 | 2026-05-26 | [daily-news-summarizer](projects/2026-05-26-daily-news-summarizer) | Fetch top 10 news headlines and summarize with OpenAI | Python, newsapi, openai |
+| 2026-05-27 | [crypto-price-alert](projects/2026-05-27-crypto-price-alert) | Monitor crypto prices and trigger desktop notification on threshold | Python, requests, plyer |
