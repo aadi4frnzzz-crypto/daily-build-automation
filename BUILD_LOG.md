@@ -40,3 +40,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-05-27 | [crypto-price-alert](projects/2026-05-27-crypto-price-alert) | Monitor crypto prices and trigger desktop notification on threshold | Python, requests, plyer |
 | 2026-05-28 | [auto-readme-generator](projects/2026-05-28-auto-readme-generator) | Auto-generate a README.md from a project folder structure + docstrings | Python, ast, jinja2 |
 | 2026-05-29 | [trading-journal-analyzer](projects/2026-05-29-trading-journal-analyzer) | Analyze trading journal CSV and output win rate, avg RR, drawdown | Python, pandas, matplotlib |
+| 2026-05-30 | [json-diff-tool](projects/2026-05-30-json-diff-tool) | Compare two JSON files and output a readable diff report | Python, deepdiff, rich |
