@@ -45,3 +45,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-06-01 | [github-streak-monitor](projects/2026-06-01-github-streak-monitor) | Check GitHub contribution streak and alert if about to break | Python, requests, smtplib |
 | 2026-06-02 | [github-repo-stats-dashboard](projects/2026-06-02-github-repo-stats-dashboard) | Pull your GitHub repo stats and generate a visual HTML dashboard | Python, requests, matplotlib |
 | 2026-06-03 | [notion-weekly-digest](projects/2026-06-03-notion-weekly-digest) | Pull last 7 days of Notion updates and format as email digest | Python, notion-client, jinja2 |
+| 2026-06-04 | [csv-to-html-report](projects/2026-06-04-csv-to-html-report) | Convert any CSV file into a styled HTML table report | Python, pandas, jinja2 |
