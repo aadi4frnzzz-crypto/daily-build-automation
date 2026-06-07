@@ -48,3 +48,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-06-04 | [csv-to-html-report](projects/2026-06-04-csv-to-html-report) | Convert any CSV file into a styled HTML table report | Python, pandas, jinja2 |
 | 2026-06-05 | [crypto-price-alert](projects/2026-06-05-crypto-price-alert) | Monitor crypto prices and trigger desktop notification on threshold | Python, requests, plyer |
 | 2026-06-06 | [whatsapp-message-analyzer](projects/2026-06-06-whatsapp-message-analyzer) | Analyze exported WhatsApp chat for word frequency and activity patterns | Python, pandas, matplotlib |
+| 2026-06-07 | [csv-to-html-report](projects/2026-06-07-csv-to-html-report) | Convert any CSV file into a styled HTML table report | Python, pandas, jinja2 |
