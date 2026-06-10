@@ -51,3 +51,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-06-07 | [csv-to-html-report](projects/2026-06-07-csv-to-html-report) | Convert any CSV file into a styled HTML table report | Python, pandas, jinja2 |
 | 2026-06-08 | [notion-weekly-digest](projects/2026-06-08-notion-weekly-digest) | Pull last 7 days of Notion updates and format as email digest | Python, notion-client, jinja2 |
 | 2026-06-09 | [naukri-job-scraper](projects/2026-06-09-naukri-job-scraper) | Scrape Naukri.com job listings by keyword and save to CSV | Python, selenium, pandas |
+| 2026-06-10 | [browser-history-analyzer](projects/2026-06-10-browser-history-analyzer) | Parse Chrome history SQLite DB and visualize top sites + time patterns | Python, sqlite3, pandas, matplotlib |
