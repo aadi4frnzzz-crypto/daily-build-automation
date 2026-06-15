@@ -56,3 +56,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-06-12 | [3d-portfolio-landing-page](projects/2026-06-12-3d-portfolio-landing-page) | Minimal 3D animated portfolio page using Three.js and vanilla JS | HTML, CSS, JavaScript, Three.js |
 | 2026-06-13 | [browser-history-analyzer](projects/2026-06-13-browser-history-analyzer) | Parse Chrome history SQLite DB and visualize top sites + time patterns | Python, sqlite3, pandas, matplotlib |
 | 2026-06-14 | [auto-git-commit-message](projects/2026-06-14-auto-git-commit-message) | Generate a conventional commit message from a git diff using OpenAI | Python, subprocess, openai |
+| 2026-06-15 | [stock-price-tracker](projects/2026-06-15-stock-price-tracker) | Fetch live stock prices via Yahoo Finance API and log to CSV | Python, yfinance, pandas |
