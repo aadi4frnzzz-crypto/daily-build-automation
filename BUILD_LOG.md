@@ -58,3 +58,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-06-14 | [auto-git-commit-message](projects/2026-06-14-auto-git-commit-message) | Generate a conventional commit message from a git diff using OpenAI | Python, subprocess, openai |
 | 2026-06-15 | [stock-price-tracker](projects/2026-06-15-stock-price-tracker) | Fetch live stock prices via Yahoo Finance API and log to CSV | Python, yfinance, pandas |
 | 2026-06-16 | [daily-news-summarizer](projects/2026-06-16-daily-news-summarizer) | Fetch top 10 news headlines and summarize with OpenAI | Python, newsapi, openai |
+| 2026-06-17 | [crypto-price-alert](projects/2026-06-17-crypto-price-alert) | Monitor crypto prices and trigger desktop notification on threshold | Python, requests, plyer |
