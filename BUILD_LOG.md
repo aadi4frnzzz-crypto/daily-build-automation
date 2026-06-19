@@ -60,3 +60,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-06-16 | [daily-news-summarizer](projects/2026-06-16-daily-news-summarizer) | Fetch top 10 news headlines and summarize with OpenAI | Python, newsapi, openai |
 | 2026-06-17 | [crypto-price-alert](projects/2026-06-17-crypto-price-alert) | Monitor crypto prices and trigger desktop notification on threshold | Python, requests, plyer |
 | 2026-06-18 | [website-uptime-checker](projects/2026-06-18-website-uptime-checker) | Monitor a list of websites for uptime and log downtime events | Python, requests, schedule, csv |
+| 2026-06-19 | [pine-script-backtester](projects/2026-06-19-pine-script-backtester) | Parse TradingView Pine Script strategy results CSV and compute metrics | Python, pandas, matplotlib |
