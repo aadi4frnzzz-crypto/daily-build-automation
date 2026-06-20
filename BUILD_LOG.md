@@ -61,3 +61,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-06-17 | [crypto-price-alert](projects/2026-06-17-crypto-price-alert) | Monitor crypto prices and trigger desktop notification on threshold | Python, requests, plyer |
 | 2026-06-18 | [website-uptime-checker](projects/2026-06-18-website-uptime-checker) | Monitor a list of websites for uptime and log downtime events | Python, requests, schedule, csv |
 | 2026-06-19 | [pine-script-backtester](projects/2026-06-19-pine-script-backtester) | Parse TradingView Pine Script strategy results CSV and compute metrics | Python, pandas, matplotlib |
+| 2026-06-20 | [csv-to-html-report](projects/2026-06-20-csv-to-html-report) | Convert any CSV file into a styled HTML table report | Python, pandas, jinja2 |
