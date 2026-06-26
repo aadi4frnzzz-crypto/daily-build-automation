@@ -66,3 +66,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-06-22 | [markdown-blog-generator](projects/2026-06-22-markdown-blog-generator) | Convert a folder of markdown files into a static HTML blog | Python, markdown, jinja2 |
 | 2026-06-23 | [markdown-blog-generator](projects/2026-06-23-markdown-blog-generator) | Convert a folder of markdown files into a static HTML blog | Python, markdown, jinja2 |
 | 2026-06-25 | [notion-to-csv-exporter](projects/2026-06-25-notion-to-csv-exporter) | Export any Notion database to a clean CSV file via API | Python, notion-client, pandas |
+| 2026-06-26 | [browser-history-analyzer](projects/2026-06-26-browser-history-analyzer) | Parse Chrome history SQLite DB and visualize top sites + time patterns | Python, sqlite3, pandas, matplotlib |
