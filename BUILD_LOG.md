@@ -71,3 +71,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-06-28 | [auto-git-commit-message](projects/2026-06-28-auto-git-commit-message) | Generate a conventional commit message from a git diff using OpenAI | Python, subprocess, openai |
 | 2026-06-29 | [trading-journal-analyzer](projects/2026-06-29-trading-journal-analyzer) | Analyze trading journal CSV and output win rate, avg RR, drawdown | Python, pandas, matplotlib |
 | 2026-06-30 | [pine-script-backtester](projects/2026-06-30-pine-script-backtester) | Parse TradingView Pine Script strategy results CSV and compute metrics | Python, pandas, matplotlib |
+| 2026-07-01 | [notion-weekly-digest](projects/2026-07-01-notion-weekly-digest) | Pull last 7 days of Notion updates and format as email digest | Python, notion-client, jinja2 |
