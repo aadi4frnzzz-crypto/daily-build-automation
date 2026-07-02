@@ -72,3 +72,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-06-29 | [trading-journal-analyzer](projects/2026-06-29-trading-journal-analyzer) | Analyze trading journal CSV and output win rate, avg RR, drawdown | Python, pandas, matplotlib |
 | 2026-06-30 | [pine-script-backtester](projects/2026-06-30-pine-script-backtester) | Parse TradingView Pine Script strategy results CSV and compute metrics | Python, pandas, matplotlib |
 | 2026-07-01 | [notion-weekly-digest](projects/2026-07-01-notion-weekly-digest) | Pull last 7 days of Notion updates and format as email digest | Python, notion-client, jinja2 |
+| 2026-07-02 | [api-health-monitor](projects/2026-07-02-api-health-monitor) | Ping a list of APIs every hour and log response times to CSV | Python, requests, schedule |
