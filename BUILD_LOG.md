@@ -74,3 +74,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-07-01 | [notion-weekly-digest](projects/2026-07-01-notion-weekly-digest) | Pull last 7 days of Notion updates and format as email digest | Python, notion-client, jinja2 |
 | 2026-07-02 | [api-health-monitor](projects/2026-07-02-api-health-monitor) | Ping a list of APIs every hour and log response times to CSV | Python, requests, schedule |
 | 2026-07-03 | [whatsapp-message-analyzer](projects/2026-07-03-whatsapp-message-analyzer) | Analyze exported WhatsApp chat for word frequency and activity patterns | Python, pandas, matplotlib |
+| 2026-07-04 | [env-secret-scanner](projects/2026-07-04-env-secret-scanner) | Scan a codebase for accidentally committed secrets/API keys | Python, regex, pathlib |
