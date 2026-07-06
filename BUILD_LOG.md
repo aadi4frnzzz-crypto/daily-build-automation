@@ -76,3 +76,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-07-03 | [whatsapp-message-analyzer](projects/2026-07-03-whatsapp-message-analyzer) | Analyze exported WhatsApp chat for word frequency and activity patterns | Python, pandas, matplotlib |
 | 2026-07-04 | [env-secret-scanner](projects/2026-07-04-env-secret-scanner) | Scan a codebase for accidentally committed secrets/API keys | Python, regex, pathlib |
 | 2026-07-05 | [browser-history-analyzer](projects/2026-07-05-browser-history-analyzer) | Parse Chrome history SQLite DB and visualize top sites + time patterns | Python, sqlite3, pandas, matplotlib |
+| 2026-07-06 | [streamlit-data-explorer](projects/2026-07-06-streamlit-data-explorer) | Upload any CSV and explore it interactively in a Streamlit dashboard | Python, streamlit, pandas, plotly |
