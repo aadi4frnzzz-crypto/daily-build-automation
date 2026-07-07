@@ -77,3 +77,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-07-04 | [env-secret-scanner](projects/2026-07-04-env-secret-scanner) | Scan a codebase for accidentally committed secrets/API keys | Python, regex, pathlib |
 | 2026-07-05 | [browser-history-analyzer](projects/2026-07-05-browser-history-analyzer) | Parse Chrome history SQLite DB and visualize top sites + time patterns | Python, sqlite3, pandas, matplotlib |
 | 2026-07-06 | [streamlit-data-explorer](projects/2026-07-06-streamlit-data-explorer) | Upload any CSV and explore it interactively in a Streamlit dashboard | Python, streamlit, pandas, plotly |
+| 2026-07-07 | [excel-formula-explainer](projects/2026-07-07-excel-formula-explainer) | Paste an Excel formula and get a plain-English explanation via OpenAI | Python, openai, tkinter |
