@@ -79,3 +79,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-07-06 | [streamlit-data-explorer](projects/2026-07-06-streamlit-data-explorer) | Upload any CSV and explore it interactively in a Streamlit dashboard | Python, streamlit, pandas, plotly |
 | 2026-07-07 | [excel-formula-explainer](projects/2026-07-07-excel-formula-explainer) | Paste an Excel formula and get a plain-English explanation via OpenAI | Python, openai, tkinter |
 | 2026-07-08 | [streamlit-data-explorer](projects/2026-07-08-streamlit-data-explorer) | Upload any CSV and explore it interactively in a Streamlit dashboard | Python, streamlit, pandas, plotly |
+| 2026-07-09 | [json-diff-tool](projects/2026-07-09-json-diff-tool) | Compare two JSON files and output a readable diff report | Python, deepdiff, rich |
