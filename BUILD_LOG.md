@@ -81,3 +81,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-07-08 | [streamlit-data-explorer](projects/2026-07-08-streamlit-data-explorer) | Upload any CSV and explore it interactively in a Streamlit dashboard | Python, streamlit, pandas, plotly |
 | 2026-07-09 | [json-diff-tool](projects/2026-07-09-json-diff-tool) | Compare two JSON files and output a readable diff report | Python, deepdiff, rich |
 | 2026-07-10 | [pine-script-backtester](projects/2026-07-10-pine-script-backtester) | Parse TradingView Pine Script strategy results CSV and compute metrics | Python, pandas, matplotlib |
+| 2026-07-11 | [streamlit-data-explorer](projects/2026-07-11-streamlit-data-explorer) | Upload any CSV and explore it interactively in a Streamlit dashboard | Python, streamlit, pandas, plotly |
