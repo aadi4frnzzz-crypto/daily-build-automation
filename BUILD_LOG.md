@@ -84,3 +84,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-07-11 | [streamlit-data-explorer](projects/2026-07-11-streamlit-data-explorer) | Upload any CSV and explore it interactively in a Streamlit dashboard | Python, streamlit, pandas, plotly |
 | 2026-07-12 | [notion-to-csv-exporter](projects/2026-07-12-notion-to-csv-exporter) | Export any Notion database to a clean CSV file via API | Python, notion-client, pandas |
 | 2026-07-13 | [daily-news-summarizer](projects/2026-07-13-daily-news-summarizer) | Fetch top 10 news headlines and summarize with OpenAI | Python, newsapi, openai |
+| 2026-07-14 | [excel-formula-explainer](projects/2026-07-14-excel-formula-explainer) | Paste an Excel formula and get a plain-English explanation via OpenAI | Python, openai, tkinter |
