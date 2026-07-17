@@ -87,3 +87,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-07-14 | [excel-formula-explainer](projects/2026-07-14-excel-formula-explainer) | Paste an Excel formula and get a plain-English explanation via OpenAI | Python, openai, tkinter |
 | 2026-07-15 | [pine-script-backtester](projects/2026-07-15-pine-script-backtester) | Parse TradingView Pine Script strategy results CSV and compute metrics | Python, pandas, matplotlib |
 | 2026-07-16 | [whatsapp-message-analyzer](projects/2026-07-16-whatsapp-message-analyzer) | Analyze exported WhatsApp chat for word frequency and activity patterns | Python, pandas, matplotlib |
+| 2026-07-17 | [auto-git-commit-message](projects/2026-07-17-auto-git-commit-message) | Generate a conventional commit message from a git diff using OpenAI | Python, subprocess, openai |
