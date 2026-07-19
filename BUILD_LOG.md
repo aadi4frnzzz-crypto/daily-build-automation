@@ -89,3 +89,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-07-16 | [whatsapp-message-analyzer](projects/2026-07-16-whatsapp-message-analyzer) | Analyze exported WhatsApp chat for word frequency and activity patterns | Python, pandas, matplotlib |
 | 2026-07-17 | [auto-git-commit-message](projects/2026-07-17-auto-git-commit-message) | Generate a conventional commit message from a git diff using OpenAI | Python, subprocess, openai |
 | 2026-07-18 | [stock-price-tracker](projects/2026-07-18-stock-price-tracker) | Fetch live stock prices via Yahoo Finance API and log to CSV | Python, yfinance, pandas |
+| 2026-07-19 | [browser-history-analyzer](projects/2026-07-19-browser-history-analyzer) | Parse Chrome history SQLite DB and visualize top sites + time patterns | Python, sqlite3, pandas, matplotlib |
