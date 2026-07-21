@@ -91,3 +91,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-07-18 | [stock-price-tracker](projects/2026-07-18-stock-price-tracker) | Fetch live stock prices via Yahoo Finance API and log to CSV | Python, yfinance, pandas |
 | 2026-07-19 | [browser-history-analyzer](projects/2026-07-19-browser-history-analyzer) | Parse Chrome history SQLite DB and visualize top sites + time patterns | Python, sqlite3, pandas, matplotlib |
 | 2026-07-20 | [linkedin-post-scheduler](projects/2026-07-20-linkedin-post-scheduler) | Queue and schedule LinkedIn posts from a markdown file | Python, selenium, schedule |
+| 2026-07-21 | [streamlit-data-explorer](projects/2026-07-21-streamlit-data-explorer) | Upload any CSV and explore it interactively in a Streamlit dashboard | Python, streamlit, pandas, plotly |
