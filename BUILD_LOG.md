@@ -97,3 +97,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-07-24 | [website-uptime-checker](projects/2026-07-24-website-uptime-checker) | Monitor a list of websites for uptime and log downtime events | Python, requests, schedule, csv |
 | 2026-07-25 | [csv-to-html-report](projects/2026-07-25-csv-to-html-report) | Convert any CSV file into a styled HTML table report | Python, pandas, jinja2 |
 | 2026-07-26 | [pdf-invoice-generator](projects/2026-07-26-pdf-invoice-generator) | Generate professional PDF invoices from CSV data | Python, reportlab, pandas |
+| 2026-07-27 | [streamlit-data-explorer](projects/2026-07-27-streamlit-data-explorer) | Upload any CSV and explore it interactively in a Streamlit dashboard | Python, streamlit, pandas, plotly |
