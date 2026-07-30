@@ -100,3 +100,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-07-27 | [streamlit-data-explorer](projects/2026-07-27-streamlit-data-explorer) | Upload any CSV and explore it interactively in a Streamlit dashboard | Python, streamlit, pandas, plotly |
 | 2026-07-28 | [daily-news-summarizer](projects/2026-07-28-daily-news-summarizer) | Fetch top 10 news headlines and summarize with OpenAI | Python, newsapi, openai |
 | 2026-07-29 | [daily-news-summarizer](projects/2026-07-29-daily-news-summarizer) | Fetch top 10 news headlines and summarize with OpenAI | Python, newsapi, openai |
+| 2026-07-30 | [website-uptime-checker](projects/2026-07-30-website-uptime-checker) | Monitor a list of websites for uptime and log downtime events | Python, requests, schedule, csv |
