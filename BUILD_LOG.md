@@ -104,3 +104,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-07-31 | [pdf-invoice-generator](projects/2026-07-31-pdf-invoice-generator) | Generate professional PDF invoices from CSV data | Python, reportlab, pandas |
 | 2026-08-01 | [streamlit-data-explorer](projects/2026-08-01-streamlit-data-explorer) | Upload any CSV and explore it interactively in a Streamlit dashboard | Python, streamlit, pandas, plotly |
 | 2026-08-02 | [auto-readme-generator](projects/2026-08-02-auto-readme-generator) | Auto-generate a README.md from a project folder structure + docstrings | Python, ast, jinja2 |
+| 2026-08-03 | [excel-formula-explainer](projects/2026-08-03-excel-formula-explainer) | Paste an Excel formula and get a plain-English explanation via OpenAI | Python, openai, tkinter |
