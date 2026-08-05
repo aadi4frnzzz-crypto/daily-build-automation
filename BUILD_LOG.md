@@ -106,3 +106,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-08-02 | [auto-readme-generator](projects/2026-08-02-auto-readme-generator) | Auto-generate a README.md from a project folder structure + docstrings | Python, ast, jinja2 |
 | 2026-08-03 | [excel-formula-explainer](projects/2026-08-03-excel-formula-explainer) | Paste an Excel formula and get a plain-English explanation via OpenAI | Python, openai, tkinter |
 | 2026-08-04 | [daily-news-summarizer](projects/2026-08-04-daily-news-summarizer) | Fetch top 10 news headlines and summarize with OpenAI | Python, newsapi, openai |
+| 2026-08-05 | [crypto-price-alert](projects/2026-08-05-crypto-price-alert) | Monitor crypto prices and trigger desktop notification on threshold | Python, requests, plyer |
