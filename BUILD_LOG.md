@@ -110,3 +110,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-08-06 | [auto-git-commit-message](projects/2026-08-06-auto-git-commit-message) | Generate a conventional commit message from a git diff using OpenAI | Python, subprocess, openai |
 | 2026-08-07 | [youtube-transcript-extractor](projects/2026-08-07-youtube-transcript-extractor) | Extract and save YouTube video transcripts to markdown files | Python, youtube-transcript-api |
 | 2026-08-08 | [browser-history-analyzer](projects/2026-08-08-browser-history-analyzer) | Parse Chrome history SQLite DB and visualize top sites + time patterns | Python, sqlite3, pandas, matplotlib |
+| 2026-08-09 | [csv-to-html-report](projects/2026-08-09-csv-to-html-report) | Convert any CSV file into a styled HTML table report | Python, pandas, jinja2 |
