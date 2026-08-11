@@ -112,3 +112,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-08-08 | [browser-history-analyzer](projects/2026-08-08-browser-history-analyzer) | Parse Chrome history SQLite DB and visualize top sites + time patterns | Python, sqlite3, pandas, matplotlib |
 | 2026-08-09 | [csv-to-html-report](projects/2026-08-09-csv-to-html-report) | Convert any CSV file into a styled HTML table report | Python, pandas, jinja2 |
 | 2026-08-10 | [json-diff-tool](projects/2026-08-10-json-diff-tool) | Compare two JSON files and output a readable diff report | Python, deepdiff, rich |
+| 2026-08-11 | [ai-flashcard-generator](projects/2026-08-11-ai-flashcard-generator) | Convert any text/PDF into Anki-compatible flashcards using OpenAI | Python, openai, pdfplumber, csv |
