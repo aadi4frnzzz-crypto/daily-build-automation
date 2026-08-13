@@ -114,3 +114,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-08-10 | [json-diff-tool](projects/2026-08-10-json-diff-tool) | Compare two JSON files and output a readable diff report | Python, deepdiff, rich |
 | 2026-08-11 | [ai-flashcard-generator](projects/2026-08-11-ai-flashcard-generator) | Convert any text/PDF into Anki-compatible flashcards using OpenAI | Python, openai, pdfplumber, csv |
 | 2026-08-12 | [trading-journal-analyzer](projects/2026-08-12-trading-journal-analyzer) | Analyze trading journal CSV and output win rate, avg RR, drawdown | Python, pandas, matplotlib |
+| 2026-08-13 | [json-diff-tool](projects/2026-08-13-json-diff-tool) | Compare two JSON files and output a readable diff report | Python, deepdiff, rich |
