@@ -116,3 +116,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-08-12 | [trading-journal-analyzer](projects/2026-08-12-trading-journal-analyzer) | Analyze trading journal CSV and output win rate, avg RR, drawdown | Python, pandas, matplotlib |
 | 2026-08-13 | [json-diff-tool](projects/2026-08-13-json-diff-tool) | Compare two JSON files and output a readable diff report | Python, deepdiff, rich |
 | 2026-08-14 | [excel-formula-explainer](projects/2026-08-14-excel-formula-explainer) | Paste an Excel formula and get a plain-English explanation via OpenAI | Python, openai, tkinter |
+| 2026-08-15 | [markdown-blog-generator](projects/2026-08-15-markdown-blog-generator) | Convert a folder of markdown files into a static HTML blog | Python, markdown, jinja2 |
