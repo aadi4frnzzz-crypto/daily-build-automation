@@ -119,3 +119,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-08-15 | [markdown-blog-generator](projects/2026-08-15-markdown-blog-generator) | Convert a folder of markdown files into a static HTML blog | Python, markdown, jinja2 |
 | 2026-08-16 | [markdown-blog-generator](projects/2026-08-16-markdown-blog-generator) | Convert a folder of markdown files into a static HTML blog | Python, markdown, jinja2 |
 | 2026-08-17 | [ai-flashcard-generator](projects/2026-08-17-ai-flashcard-generator) | Convert any text/PDF into Anki-compatible flashcards using OpenAI | Python, openai, pdfplumber, csv |
+| 2026-08-18 | [pine-script-backtester](projects/2026-08-18-pine-script-backtester) | Parse TradingView Pine Script strategy results CSV and compute metrics | Python, pandas, matplotlib |
