@@ -122,3 +122,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-08-18 | [pine-script-backtester](projects/2026-08-18-pine-script-backtester) | Parse TradingView Pine Script strategy results CSV and compute metrics | Python, pandas, matplotlib |
 | 2026-08-19 | [3d-portfolio-landing-page](projects/2026-08-19-3d-portfolio-landing-page) | Minimal 3D animated portfolio page using Three.js and vanilla JS | HTML, CSS, JavaScript, Three.js |
 | 2026-08-20 | [browser-history-analyzer](projects/2026-08-20-browser-history-analyzer) | Parse Chrome history SQLite DB and visualize top sites + time patterns | Python, sqlite3, pandas, matplotlib |
+| 2026-08-21 | [ai-flashcard-generator](projects/2026-08-21-ai-flashcard-generator) | Convert any text/PDF into Anki-compatible flashcards using OpenAI | Python, openai, pdfplumber, csv |
