@@ -126,3 +126,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-08-22 | [excel-formula-explainer](projects/2026-08-22-excel-formula-explainer) | Paste an Excel formula and get a plain-English explanation via OpenAI | Python, openai, tkinter |
 | 2026-08-23 | [naukri-job-scraper](projects/2026-08-23-naukri-job-scraper) | Scrape Naukri.com job listings by keyword and save to CSV | Python, selenium, pandas |
 | 2026-08-24 | [browser-history-analyzer](projects/2026-08-24-browser-history-analyzer) | Parse Chrome history SQLite DB and visualize top sites + time patterns | Python, sqlite3, pandas, matplotlib |
+| 2026-08-25 | [resume-ats-scorer](projects/2026-08-25-resume-ats-scorer) | Score a resume against a job description for ATS keyword match | Python, nltk, sklearn |
