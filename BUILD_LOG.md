@@ -128,3 +128,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-08-24 | [browser-history-analyzer](projects/2026-08-24-browser-history-analyzer) | Parse Chrome history SQLite DB and visualize top sites + time patterns | Python, sqlite3, pandas, matplotlib |
 | 2026-08-25 | [resume-ats-scorer](projects/2026-08-25-resume-ats-scorer) | Score a resume against a job description for ATS keyword match | Python, nltk, sklearn |
 | 2026-08-26 | [auto-git-commit-message](projects/2026-08-26-auto-git-commit-message) | Generate a conventional commit message from a git diff using OpenAI | Python, subprocess, openai |
+| 2026-08-27 | [website-uptime-checker](projects/2026-08-27-website-uptime-checker) | Monitor a list of websites for uptime and log downtime events | Python, requests, schedule, csv |
