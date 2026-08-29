@@ -130,3 +130,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-08-26 | [auto-git-commit-message](projects/2026-08-26-auto-git-commit-message) | Generate a conventional commit message from a git diff using OpenAI | Python, subprocess, openai |
 | 2026-08-27 | [website-uptime-checker](projects/2026-08-27-website-uptime-checker) | Monitor a list of websites for uptime and log downtime events | Python, requests, schedule, csv |
 | 2026-08-28 | [youtube-transcript-extractor](projects/2026-08-28-youtube-transcript-extractor) | Extract and save YouTube video transcripts to markdown files | Python, youtube-transcript-api |
+| 2026-08-29 | [pdf-invoice-generator](projects/2026-08-29-pdf-invoice-generator) | Generate professional PDF invoices from CSV data | Python, reportlab, pandas |
