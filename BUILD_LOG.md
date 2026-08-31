@@ -132,3 +132,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-08-28 | [youtube-transcript-extractor](projects/2026-08-28-youtube-transcript-extractor) | Extract and save YouTube video transcripts to markdown files | Python, youtube-transcript-api |
 | 2026-08-29 | [pdf-invoice-generator](projects/2026-08-29-pdf-invoice-generator) | Generate professional PDF invoices from CSV data | Python, reportlab, pandas |
 | 2026-08-30 | [notion-to-csv-exporter](projects/2026-08-30-notion-to-csv-exporter) | Export any Notion database to a clean CSV file via API | Python, notion-client, pandas |
+| 2026-08-31 | [github-repo-stats-dashboard](projects/2026-08-31-github-repo-stats-dashboard) | Pull your GitHub repo stats and generate a visual HTML dashboard | Python, requests, matplotlib |
