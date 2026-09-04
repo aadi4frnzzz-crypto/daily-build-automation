@@ -136,3 +136,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-09-01 | [crypto-price-alert](projects/2026-09-01-crypto-price-alert) | Monitor crypto prices and trigger desktop notification on threshold | Python, requests, plyer |
 | 2026-09-02 | [naukri-job-scraper](projects/2026-09-02-naukri-job-scraper) | Scrape Naukri.com job listings by keyword and save to CSV | Python, selenium, pandas |
 | 2026-09-03 | [excel-formula-explainer](projects/2026-09-03-excel-formula-explainer) | Paste an Excel formula and get a plain-English explanation via OpenAI | Python, openai, tkinter |
+| 2026-09-04 | [youtube-transcript-extractor](projects/2026-09-04-youtube-transcript-extractor) | Extract and save YouTube video transcripts to markdown files | Python, youtube-transcript-api |
