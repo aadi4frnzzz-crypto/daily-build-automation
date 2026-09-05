@@ -137,3 +137,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-09-02 | [naukri-job-scraper](projects/2026-09-02-naukri-job-scraper) | Scrape Naukri.com job listings by keyword and save to CSV | Python, selenium, pandas |
 | 2026-09-03 | [excel-formula-explainer](projects/2026-09-03-excel-formula-explainer) | Paste an Excel formula and get a plain-English explanation via OpenAI | Python, openai, tkinter |
 | 2026-09-04 | [youtube-transcript-extractor](projects/2026-09-04-youtube-transcript-extractor) | Extract and save YouTube video transcripts to markdown files | Python, youtube-transcript-api |
+| 2026-09-05 | [streamlit-data-explorer](projects/2026-09-05-streamlit-data-explorer) | Upload any CSV and explore it interactively in a Streamlit dashboard | Python, streamlit, pandas, plotly |
