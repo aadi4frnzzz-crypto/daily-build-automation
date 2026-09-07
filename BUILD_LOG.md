@@ -139,3 +139,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-09-04 | [youtube-transcript-extractor](projects/2026-09-04-youtube-transcript-extractor) | Extract and save YouTube video transcripts to markdown files | Python, youtube-transcript-api |
 | 2026-09-05 | [streamlit-data-explorer](projects/2026-09-05-streamlit-data-explorer) | Upload any CSV and explore it interactively in a Streamlit dashboard | Python, streamlit, pandas, plotly |
 | 2026-09-06 | [github-repo-stats-dashboard](projects/2026-09-06-github-repo-stats-dashboard) | Pull your GitHub repo stats and generate a visual HTML dashboard | Python, requests, matplotlib |
+| 2026-09-07 | [github-streak-monitor](projects/2026-09-07-github-streak-monitor) | Check GitHub contribution streak and alert if about to break | Python, requests, smtplib |
