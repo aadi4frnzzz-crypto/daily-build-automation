@@ -141,3 +141,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-09-06 | [github-repo-stats-dashboard](projects/2026-09-06-github-repo-stats-dashboard) | Pull your GitHub repo stats and generate a visual HTML dashboard | Python, requests, matplotlib |
 | 2026-09-07 | [github-streak-monitor](projects/2026-09-07-github-streak-monitor) | Check GitHub contribution streak and alert if about to break | Python, requests, smtplib |
 | 2026-09-08 | [markdown-blog-generator](projects/2026-09-08-markdown-blog-generator) | Convert a folder of markdown files into a static HTML blog | Python, markdown, jinja2 |
+| 2026-09-09 | [json-diff-tool](projects/2026-09-09-json-diff-tool) | Compare two JSON files and output a readable diff report | Python, deepdiff, rich |
