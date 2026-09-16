@@ -148,3 +148,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-09-13 | [naukri-job-scraper](projects/2026-09-13-naukri-job-scraper) | Scrape Naukri.com job listings by keyword and save to CSV | Python, selenium, pandas |
 | 2026-09-14 | [expense-categorizer](projects/2026-09-14-expense-categorizer) | Auto-categorize bank statement CSV using keyword rules | Python, pandas, rich |
 | 2026-09-15 | [youtube-transcript-extractor](projects/2026-09-15-youtube-transcript-extractor) | Extract and save YouTube video transcripts to markdown files | Python, youtube-transcript-api |
+| 2026-09-16 | [daily-news-summarizer](projects/2026-09-16-daily-news-summarizer) | Fetch top 10 news headlines and summarize with OpenAI | Python, newsapi, openai |
