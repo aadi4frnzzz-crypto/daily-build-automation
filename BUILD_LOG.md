@@ -150,3 +150,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-09-15 | [youtube-transcript-extractor](projects/2026-09-15-youtube-transcript-extractor) | Extract and save YouTube video transcripts to markdown files | Python, youtube-transcript-api |
 | 2026-09-16 | [daily-news-summarizer](projects/2026-09-16-daily-news-summarizer) | Fetch top 10 news headlines and summarize with OpenAI | Python, newsapi, openai |
 | 2026-09-17 | [json-diff-tool](projects/2026-09-17-json-diff-tool) | Compare two JSON files and output a readable diff report | Python, deepdiff, rich |
+| 2026-09-18 | [3d-portfolio-landing-page](projects/2026-09-18-3d-portfolio-landing-page) | Minimal 3D animated portfolio page using Three.js and vanilla JS | HTML, CSS, JavaScript, Three.js |
