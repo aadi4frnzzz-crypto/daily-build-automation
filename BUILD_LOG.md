@@ -152,3 +152,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-09-17 | [json-diff-tool](projects/2026-09-17-json-diff-tool) | Compare two JSON files and output a readable diff report | Python, deepdiff, rich |
 | 2026-09-18 | [3d-portfolio-landing-page](projects/2026-09-18-3d-portfolio-landing-page) | Minimal 3D animated portfolio page using Three.js and vanilla JS | HTML, CSS, JavaScript, Three.js |
 | 2026-09-19 | [stock-price-tracker](projects/2026-09-19-stock-price-tracker) | Fetch live stock prices via Yahoo Finance API and log to CSV | Python, yfinance, pandas |
+| 2026-09-20 | [stock-price-tracker](projects/2026-09-20-stock-price-tracker) | Fetch live stock prices via Yahoo Finance API and log to CSV | Python, yfinance, pandas |
