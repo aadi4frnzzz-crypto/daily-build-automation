@@ -158,3 +158,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-09-23 | [ai-flashcard-generator](projects/2026-09-23-ai-flashcard-generator) | Convert any text/PDF into Anki-compatible flashcards using OpenAI | Python, openai, pdfplumber, csv |
 | 2026-09-24 | [naukri-job-scraper](projects/2026-09-24-naukri-job-scraper) | Scrape Naukri.com job listings by keyword and save to CSV | Python, selenium, pandas |
 | 2026-09-25 | [auto-readme-generator](projects/2026-09-25-auto-readme-generator) | Auto-generate a README.md from a project folder structure + docstrings | Python, ast, jinja2 |
+| 2026-09-26 | [excel-formula-explainer](projects/2026-09-26-excel-formula-explainer) | Paste an Excel formula and get a plain-English explanation via OpenAI | Python, openai, tkinter |
