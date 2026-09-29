@@ -161,3 +161,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-09-26 | [excel-formula-explainer](projects/2026-09-26-excel-formula-explainer) | Paste an Excel formula and get a plain-English explanation via OpenAI | Python, openai, tkinter |
 | 2026-09-27 | [github-repo-stats-dashboard](projects/2026-09-27-github-repo-stats-dashboard) | Pull your GitHub repo stats and generate a visual HTML dashboard | Python, requests, matplotlib |
 | 2026-09-28 | [pine-script-backtester](projects/2026-09-28-pine-script-backtester) | Parse TradingView Pine Script strategy results CSV and compute metrics | Python, pandas, matplotlib |
+| 2026-09-29 | [whatsapp-message-analyzer](projects/2026-09-29-whatsapp-message-analyzer) | Analyze exported WhatsApp chat for word frequency and activity patterns | Python, pandas, matplotlib |
