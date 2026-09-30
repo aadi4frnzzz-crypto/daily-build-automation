@@ -162,3 +162,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-09-27 | [github-repo-stats-dashboard](projects/2026-09-27-github-repo-stats-dashboard) | Pull your GitHub repo stats and generate a visual HTML dashboard | Python, requests, matplotlib |
 | 2026-09-28 | [pine-script-backtester](projects/2026-09-28-pine-script-backtester) | Parse TradingView Pine Script strategy results CSV and compute metrics | Python, pandas, matplotlib |
 | 2026-09-29 | [whatsapp-message-analyzer](projects/2026-09-29-whatsapp-message-analyzer) | Analyze exported WhatsApp chat for word frequency and activity patterns | Python, pandas, matplotlib |
+| 2026-09-30 | [mcp-tool-builder](projects/2026-09-30-mcp-tool-builder) | Scaffold a new MCP tool server with boilerplate for Claude integration | Python, fastapi, pydantic |
