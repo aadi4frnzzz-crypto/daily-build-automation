@@ -165,3 +165,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-09-30 | [mcp-tool-builder](projects/2026-09-30-mcp-tool-builder) | Scaffold a new MCP tool server with boilerplate for Claude integration | Python, fastapi, pydantic |
 | 2026-10-01 | [mcp-tool-builder](projects/2026-10-01-mcp-tool-builder) | Scaffold a new MCP tool server with boilerplate for Claude integration | Python, fastapi, pydantic |
 | 2026-10-02 | [expense-categorizer](projects/2026-10-02-expense-categorizer) | Auto-categorize bank statement CSV using keyword rules | Python, pandas, rich |
+| 2026-10-03 | [3d-portfolio-landing-page](projects/2026-10-03-3d-portfolio-landing-page) | Minimal 3D animated portfolio page using Three.js and vanilla JS | HTML, CSS, JavaScript, Three.js |
