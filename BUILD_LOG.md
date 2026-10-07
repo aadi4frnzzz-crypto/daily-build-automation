@@ -169,3 +169,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-10-04 | [whatsapp-message-analyzer](projects/2026-10-04-whatsapp-message-analyzer) | Analyze exported WhatsApp chat for word frequency and activity patterns | Python, pandas, matplotlib |
 | 2026-10-05 | [api-health-monitor](projects/2026-10-05-api-health-monitor) | Ping a list of APIs every hour and log response times to CSV | Python, requests, schedule |
 | 2026-10-06 | [resume-ats-scorer](projects/2026-10-06-resume-ats-scorer) | Score a resume against a job description for ATS keyword match | Python, nltk, sklearn |
+| 2026-10-07 | [notion-weekly-digest](projects/2026-10-07-notion-weekly-digest) | Pull last 7 days of Notion updates and format as email digest | Python, notion-client, jinja2 |
