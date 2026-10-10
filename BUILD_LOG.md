@@ -172,3 +172,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-10-07 | [notion-weekly-digest](projects/2026-10-07-notion-weekly-digest) | Pull last 7 days of Notion updates and format as email digest | Python, notion-client, jinja2 |
 | 2026-10-08 | [ai-flashcard-generator](projects/2026-10-08-ai-flashcard-generator) | Convert any text/PDF into Anki-compatible flashcards using OpenAI | Python, openai, pdfplumber, csv |
 | 2026-10-09 | [ai-flashcard-generator](projects/2026-10-09-ai-flashcard-generator) | Convert any text/PDF into Anki-compatible flashcards using OpenAI | Python, openai, pdfplumber, csv |
+| 2026-10-10 | [daily-news-summarizer](projects/2026-10-10-daily-news-summarizer) | Fetch top 10 news headlines and summarize with OpenAI | Python, newsapi, openai |
