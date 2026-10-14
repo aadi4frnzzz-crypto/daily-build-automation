@@ -176,3 +176,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-10-11 | [linkedin-post-scheduler](projects/2026-10-11-linkedin-post-scheduler) | Queue and schedule LinkedIn posts from a markdown file | Python, selenium, schedule |
 | 2026-10-12 | [github-streak-monitor](projects/2026-10-12-github-streak-monitor) | Check GitHub contribution streak and alert if about to break | Python, requests, smtplib |
 | 2026-10-13 | [stock-price-tracker](projects/2026-10-13-stock-price-tracker) | Fetch live stock prices via Yahoo Finance API and log to CSV | Python, yfinance, pandas |
+| 2026-10-14 | [3d-portfolio-landing-page](projects/2026-10-14-3d-portfolio-landing-page) | Minimal 3D animated portfolio page using Three.js and vanilla JS | HTML, CSS, JavaScript, Three.js |
