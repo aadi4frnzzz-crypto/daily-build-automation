@@ -178,3 +178,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-10-13 | [stock-price-tracker](projects/2026-10-13-stock-price-tracker) | Fetch live stock prices via Yahoo Finance API and log to CSV | Python, yfinance, pandas |
 | 2026-10-14 | [3d-portfolio-landing-page](projects/2026-10-14-3d-portfolio-landing-page) | Minimal 3D animated portfolio page using Three.js and vanilla JS | HTML, CSS, JavaScript, Three.js |
 | 2026-10-15 | [pine-script-backtester](projects/2026-10-15-pine-script-backtester) | Parse TradingView Pine Script strategy results CSV and compute metrics | Python, pandas, matplotlib |
+| 2026-10-16 | [website-uptime-checker](projects/2026-10-16-website-uptime-checker) | Monitor a list of websites for uptime and log downtime events | Python, requests, schedule, csv |
