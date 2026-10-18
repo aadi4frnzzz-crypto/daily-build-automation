@@ -180,3 +180,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-10-15 | [pine-script-backtester](projects/2026-10-15-pine-script-backtester) | Parse TradingView Pine Script strategy results CSV and compute metrics | Python, pandas, matplotlib |
 | 2026-10-16 | [website-uptime-checker](projects/2026-10-16-website-uptime-checker) | Monitor a list of websites for uptime and log downtime events | Python, requests, schedule, csv |
 | 2026-10-17 | [browser-history-analyzer](projects/2026-10-17-browser-history-analyzer) | Parse Chrome history SQLite DB and visualize top sites + time patterns | Python, sqlite3, pandas, matplotlib |
+| 2026-10-18 | [trading-journal-analyzer](projects/2026-10-18-trading-journal-analyzer) | Analyze trading journal CSV and output win rate, avg RR, drawdown | Python, pandas, matplotlib |
