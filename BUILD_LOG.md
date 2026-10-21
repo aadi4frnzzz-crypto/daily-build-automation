@@ -183,3 +183,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-10-18 | [trading-journal-analyzer](projects/2026-10-18-trading-journal-analyzer) | Analyze trading journal CSV and output win rate, avg RR, drawdown | Python, pandas, matplotlib |
 | 2026-10-19 | [daily-news-summarizer](projects/2026-10-19-daily-news-summarizer) | Fetch top 10 news headlines and summarize with OpenAI | Python, newsapi, openai |
 | 2026-10-20 | [streamlit-data-explorer](projects/2026-10-20-streamlit-data-explorer) | Upload any CSV and explore it interactively in a Streamlit dashboard | Python, streamlit, pandas, plotly |
+| 2026-10-21 | [notion-to-csv-exporter](projects/2026-10-21-notion-to-csv-exporter) | Export any Notion database to a clean CSV file via API | Python, notion-client, pandas |
