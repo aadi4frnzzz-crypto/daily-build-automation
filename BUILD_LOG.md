@@ -186,3 +186,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-10-21 | [notion-to-csv-exporter](projects/2026-10-21-notion-to-csv-exporter) | Export any Notion database to a clean CSV file via API | Python, notion-client, pandas |
 | 2026-10-22 | [3d-portfolio-landing-page](projects/2026-10-22-3d-portfolio-landing-page) | Minimal 3D animated portfolio page using Three.js and vanilla JS | HTML, CSS, JavaScript, Three.js |
 | 2026-10-23 | [notion-to-csv-exporter](projects/2026-10-23-notion-to-csv-exporter) | Export any Notion database to a clean CSV file via API | Python, notion-client, pandas |
+| 2026-10-24 | [resume-ats-scorer](projects/2026-10-24-resume-ats-scorer) | Score a resume against a job description for ATS keyword match | Python, nltk, sklearn |
