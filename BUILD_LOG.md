@@ -191,3 +191,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-10-26 | [json-diff-tool](projects/2026-10-26-json-diff-tool) | Compare two JSON files and output a readable diff report | Python, deepdiff, rich |
 | 2026-10-27 | [notion-to-csv-exporter](projects/2026-10-27-notion-to-csv-exporter) | Export any Notion database to a clean CSV file via API | Python, notion-client, pandas |
 | 2026-10-28 | [naukri-job-scraper](projects/2026-10-28-naukri-job-scraper) | Scrape Naukri.com job listings by keyword and save to CSV | Python, selenium, pandas |
+| 2026-10-29 | [browser-history-analyzer](projects/2026-10-29-browser-history-analyzer) | Parse Chrome history SQLite DB and visualize top sites + time patterns | Python, sqlite3, pandas, matplotlib |
