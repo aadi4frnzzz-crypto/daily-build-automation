@@ -193,3 +193,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-10-28 | [naukri-job-scraper](projects/2026-10-28-naukri-job-scraper) | Scrape Naukri.com job listings by keyword and save to CSV | Python, selenium, pandas |
 | 2026-10-29 | [browser-history-analyzer](projects/2026-10-29-browser-history-analyzer) | Parse Chrome history SQLite DB and visualize top sites + time patterns | Python, sqlite3, pandas, matplotlib |
 | 2026-10-30 | [3d-portfolio-landing-page](projects/2026-10-30-3d-portfolio-landing-page) | Minimal 3D animated portfolio page using Three.js and vanilla JS | HTML, CSS, JavaScript, Three.js |
+| 2026-10-31 | [github-repo-stats-dashboard](projects/2026-10-31-github-repo-stats-dashboard) | Pull your GitHub repo stats and generate a visual HTML dashboard | Python, requests, matplotlib |
