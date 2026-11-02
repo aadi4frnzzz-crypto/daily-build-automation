@@ -195,3 +195,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-10-30 | [3d-portfolio-landing-page](projects/2026-10-30-3d-portfolio-landing-page) | Minimal 3D animated portfolio page using Three.js and vanilla JS | HTML, CSS, JavaScript, Three.js |
 | 2026-10-31 | [github-repo-stats-dashboard](projects/2026-10-31-github-repo-stats-dashboard) | Pull your GitHub repo stats and generate a visual HTML dashboard | Python, requests, matplotlib |
 | 2026-11-01 | [auto-readme-generator](projects/2026-11-01-auto-readme-generator) | Auto-generate a README.md from a project folder structure + docstrings | Python, ast, jinja2 |
+| 2026-11-02 | [crypto-price-alert](projects/2026-11-02-crypto-price-alert) | Monitor crypto prices and trigger desktop notification on threshold | Python, requests, plyer |
