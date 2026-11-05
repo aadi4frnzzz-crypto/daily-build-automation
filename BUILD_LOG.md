@@ -197,3 +197,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-11-01 | [auto-readme-generator](projects/2026-11-01-auto-readme-generator) | Auto-generate a README.md from a project folder structure + docstrings | Python, ast, jinja2 |
 | 2026-11-02 | [crypto-price-alert](projects/2026-11-02-crypto-price-alert) | Monitor crypto prices and trigger desktop notification on threshold | Python, requests, plyer |
 | 2026-11-03 | [youtube-transcript-extractor](projects/2026-11-03-youtube-transcript-extractor) | Extract and save YouTube video transcripts to markdown files | Python, youtube-transcript-api |
+| 2026-11-05 | [naukri-job-scraper](projects/2026-11-05-naukri-job-scraper) | Scrape Naukri.com job listings by keyword and save to CSV | Python, selenium, pandas |
