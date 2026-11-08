@@ -200,3 +200,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-11-05 | [naukri-job-scraper](projects/2026-11-05-naukri-job-scraper) | Scrape Naukri.com job listings by keyword and save to CSV | Python, selenium, pandas |
 | 2026-11-06 | [linkedin-post-scheduler](projects/2026-11-06-linkedin-post-scheduler) | Queue and schedule LinkedIn posts from a markdown file | Python, selenium, schedule |
 | 2026-11-07 | [linkedin-post-scheduler](projects/2026-11-07-linkedin-post-scheduler) | Queue and schedule LinkedIn posts from a markdown file | Python, selenium, schedule |
+| 2026-11-08 | [browser-history-analyzer](projects/2026-11-08-browser-history-analyzer) | Parse Chrome history SQLite DB and visualize top sites + time patterns | Python, sqlite3, pandas, matplotlib |
