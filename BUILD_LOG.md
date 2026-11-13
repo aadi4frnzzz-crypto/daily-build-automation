@@ -205,3 +205,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-11-10 | [github-repo-stats-dashboard](projects/2026-11-10-github-repo-stats-dashboard) | Pull your GitHub repo stats and generate a visual HTML dashboard | Python, requests, matplotlib |
 | 2026-11-11 | [3d-portfolio-landing-page](projects/2026-11-11-3d-portfolio-landing-page) | Minimal 3D animated portfolio page using Three.js and vanilla JS | HTML, CSS, JavaScript, Three.js |
 | 2026-11-12 | [env-secret-scanner](projects/2026-11-12-env-secret-scanner) | Scan a codebase for accidentally committed secrets/API keys | Python, regex, pathlib |
+| 2026-11-13 | [auto-git-commit-message](projects/2026-11-13-auto-git-commit-message) | Generate a conventional commit message from a git diff using OpenAI | Python, subprocess, openai |
