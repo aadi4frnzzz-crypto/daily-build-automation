@@ -206,3 +206,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-11-11 | [3d-portfolio-landing-page](projects/2026-11-11-3d-portfolio-landing-page) | Minimal 3D animated portfolio page using Three.js and vanilla JS | HTML, CSS, JavaScript, Three.js |
 | 2026-11-12 | [env-secret-scanner](projects/2026-11-12-env-secret-scanner) | Scan a codebase for accidentally committed secrets/API keys | Python, regex, pathlib |
 | 2026-11-13 | [auto-git-commit-message](projects/2026-11-13-auto-git-commit-message) | Generate a conventional commit message from a git diff using OpenAI | Python, subprocess, openai |
+| 2026-11-14 | [trading-journal-analyzer](projects/2026-11-14-trading-journal-analyzer) | Analyze trading journal CSV and output win rate, avg RR, drawdown | Python, pandas, matplotlib |
