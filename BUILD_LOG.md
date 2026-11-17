@@ -209,3 +209,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-11-14 | [trading-journal-analyzer](projects/2026-11-14-trading-journal-analyzer) | Analyze trading journal CSV and output win rate, avg RR, drawdown | Python, pandas, matplotlib |
 | 2026-11-15 | [website-uptime-checker](projects/2026-11-15-website-uptime-checker) | Monitor a list of websites for uptime and log downtime events | Python, requests, schedule, csv |
 | 2026-11-16 | [github-repo-stats-dashboard](projects/2026-11-16-github-repo-stats-dashboard) | Pull your GitHub repo stats and generate a visual HTML dashboard | Python, requests, matplotlib |
+| 2026-11-17 | [stock-price-tracker](projects/2026-11-17-stock-price-tracker) | Fetch live stock prices via Yahoo Finance API and log to CSV | Python, yfinance, pandas |
