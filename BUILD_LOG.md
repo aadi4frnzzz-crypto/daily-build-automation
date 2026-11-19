@@ -211,3 +211,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-11-16 | [github-repo-stats-dashboard](projects/2026-11-16-github-repo-stats-dashboard) | Pull your GitHub repo stats and generate a visual HTML dashboard | Python, requests, matplotlib |
 | 2026-11-17 | [stock-price-tracker](projects/2026-11-17-stock-price-tracker) | Fetch live stock prices via Yahoo Finance API and log to CSV | Python, yfinance, pandas |
 | 2026-11-18 | [ai-flashcard-generator](projects/2026-11-18-ai-flashcard-generator) | Convert any text/PDF into Anki-compatible flashcards using OpenAI | Python, openai, pdfplumber, csv |
+| 2026-11-19 | [resume-ats-scorer](projects/2026-11-19-resume-ats-scorer) | Score a resume against a job description for ATS keyword match | Python, nltk, sklearn |
