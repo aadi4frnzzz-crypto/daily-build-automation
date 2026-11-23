@@ -215,3 +215,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-11-20 | [markdown-blog-generator](projects/2026-11-20-markdown-blog-generator) | Convert a folder of markdown files into a static HTML blog | Python, markdown, jinja2 |
 | 2026-11-21 | [pdf-invoice-generator](projects/2026-11-21-pdf-invoice-generator) | Generate professional PDF invoices from CSV data | Python, reportlab, pandas |
 | 2026-11-22 | [stock-price-tracker](projects/2026-11-22-stock-price-tracker) | Fetch live stock prices via Yahoo Finance API and log to CSV | Python, yfinance, pandas |
+| 2026-11-23 | [notion-weekly-digest](projects/2026-11-23-notion-weekly-digest) | Pull last 7 days of Notion updates and format as email digest | Python, notion-client, jinja2 |
