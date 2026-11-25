@@ -217,3 +217,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-11-22 | [stock-price-tracker](projects/2026-11-22-stock-price-tracker) | Fetch live stock prices via Yahoo Finance API and log to CSV | Python, yfinance, pandas |
 | 2026-11-23 | [notion-weekly-digest](projects/2026-11-23-notion-weekly-digest) | Pull last 7 days of Notion updates and format as email digest | Python, notion-client, jinja2 |
 | 2026-11-24 | [env-secret-scanner](projects/2026-11-24-env-secret-scanner) | Scan a codebase for accidentally committed secrets/API keys | Python, regex, pathlib |
+| 2026-11-25 | [resume-ats-scorer](projects/2026-11-25-resume-ats-scorer) | Score a resume against a job description for ATS keyword match | Python, nltk, sklearn |
