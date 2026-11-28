@@ -220,3 +220,4 @@ Auto-generated log of every project built by the daily automation pipeline.
 | 2026-11-25 | [resume-ats-scorer](projects/2026-11-25-resume-ats-scorer) | Score a resume against a job description for ATS keyword match | Python, nltk, sklearn |
 | 2026-11-26 | [browser-history-analyzer](projects/2026-11-26-browser-history-analyzer) | Parse Chrome history SQLite DB and visualize top sites + time patterns | Python, sqlite3, pandas, matplotlib |
 | 2026-11-27 | [youtube-transcript-extractor](projects/2026-11-27-youtube-transcript-extractor) | Extract and save YouTube video transcripts to markdown files | Python, youtube-transcript-api |
+| 2026-11-28 | [resume-ats-scorer](projects/2026-11-28-resume-ats-scorer) | Score a resume against a job description for ATS keyword match | Python, nltk, sklearn |
